@@ -1,0 +1,46 @@
+C:\Users\blank\source\repos\Poe show buff\bin\Debug\net6.0-windows\Poe show buff.exe
+C:\Users\blank\source\repos\Poe show buff\bin\Debug\net6.0-windows\Poe show buff.deps.json
+C:\Users\blank\source\repos\Poe show buff\bin\Debug\net6.0-windows\Poe show buff.runtimeconfig.json
+C:\Users\blank\source\repos\Poe show buff\bin\Debug\net6.0-windows\Poe show buff.dll
+C:\Users\blank\source\repos\Poe show buff\bin\Debug\net6.0-windows\Poe show buff.pdb
+C:\Users\blank\source\repos\Poe show buff\obj\Debug\net6.0-windows\Poe show buff.csproj.AssemblyReference.cache
+C:\Users\blank\source\repos\Poe show buff\obj\Debug\net6.0-windows\Poe_show_buff.Form1.resources
+C:\Users\blank\source\repos\Poe show buff\obj\Debug\net6.0-windows\Poe show buff.csproj.GenerateResource.cache
+C:\Users\blank\source\repos\Poe show buff\obj\Debug\net6.0-windows\Poe show buff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blank\source\repos\Poe show buff\obj\Debug\net6.0-windows\Poe show buff.AssemblyInfoInputs.cache
+C:\Users\blank\source\repos\Poe show buff\obj\Debug\net6.0-windows\Poe show buff.AssemblyInfo.cs
+C:\Users\blank\source\repos\Poe show buff\obj\Debug\net6.0-windows\Poe show buff.csproj.CoreCompileInputs.cache
+C:\Users\blank\source\repos\Poe show buff\obj\Debug\net6.0-windows\Poe show buff.dll
+C:\Users\blank\source\repos\Poe show buff\obj\Debug\net6.0-windows\refint\Poe show buff.dll
+C:\Users\blank\source\repos\Poe show buff\obj\Debug\net6.0-windows\Poe show buff.pdb
+C:\Users\blank\source\repos\Poe show buff\obj\Debug\net6.0-windows\Poe show buff.genruntimeconfig.cache
+C:\Users\blank\source\repos\Poe show buff\obj\Debug\net6.0-windows\ref\Poe show buff.dll
+C:\Users\blank\source\repos\Poe show buff\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\blank\source\repos\Poe show buff\obj\Debug\net6.0-windows\Poe show buff.csproj.CopyComplete
+C:\Users\blank\source\repos\Poe show buff\bin\Debug\net6.0-windows\selenium-manager\linux\selenium-manager
+C:\Users\blank\source\repos\Poe show buff\bin\Debug\net6.0-windows\selenium-manager\macos\selenium-manager
+C:\Users\blank\source\repos\Poe show buff\bin\Debug\net6.0-windows\selenium-manager\windows\selenium-manager.exe
+C:\Users\blank\source\repos\Poe show buff\bin\Debug\net6.0-windows\WebDriver.dll
+C:\Users\blank\Documents\GitHub\poe\Poe show buff\Poe show buff\bin\Debug\net6.0-windows\selenium-manager\linux\selenium-manager
+C:\Users\blank\Documents\GitHub\poe\Poe show buff\Poe show buff\bin\Debug\net6.0-windows\selenium-manager\macos\selenium-manager
+C:\Users\blank\Documents\GitHub\poe\Poe show buff\Poe show buff\bin\Debug\net6.0-windows\selenium-manager\windows\selenium-manager.exe
+C:\Users\blank\Documents\GitHub\poe\Poe show buff\Poe show buff\bin\Debug\net6.0-windows\Poe show buff.exe
+C:\Users\blank\Documents\GitHub\poe\Poe show buff\Poe show buff\bin\Debug\net6.0-windows\Poe show buff.deps.json
+C:\Users\blank\Documents\GitHub\poe\Poe show buff\Poe show buff\bin\Debug\net6.0-windows\Poe show buff.runtimeconfig.json
+C:\Users\blank\Documents\GitHub\poe\Poe show buff\Poe show buff\bin\Debug\net6.0-windows\Poe show buff.dll
+C:\Users\blank\Documents\GitHub\poe\Poe show buff\Poe show buff\bin\Debug\net6.0-windows\Poe show buff.pdb
+C:\Users\blank\Documents\GitHub\poe\Poe show buff\Poe show buff\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\blank\Documents\GitHub\poe\Poe show buff\Poe show buff\bin\Debug\net6.0-windows\WebDriver.dll
+C:\Users\blank\Documents\GitHub\poe\Poe show buff\Poe show buff\obj\Debug\net6.0-windows\Poe show buff.csproj.AssemblyReference.cache
+C:\Users\blank\Documents\GitHub\poe\Poe show buff\Poe show buff\obj\Debug\net6.0-windows\Poe_show_buff.Form1.resources
+C:\Users\blank\Documents\GitHub\poe\Poe show buff\Poe show buff\obj\Debug\net6.0-windows\Poe show buff.csproj.GenerateResource.cache
+C:\Users\blank\Documents\GitHub\poe\Poe show buff\Poe show buff\obj\Debug\net6.0-windows\Poe show buff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blank\Documents\GitHub\poe\Poe show buff\Poe show buff\obj\Debug\net6.0-windows\Poe show buff.AssemblyInfoInputs.cache
+C:\Users\blank\Documents\GitHub\poe\Poe show buff\Poe show buff\obj\Debug\net6.0-windows\Poe show buff.AssemblyInfo.cs
+C:\Users\blank\Documents\GitHub\poe\Poe show buff\Poe show buff\obj\Debug\net6.0-windows\Poe show buff.csproj.CoreCompileInputs.cache
+C:\Users\blank\Documents\GitHub\poe\Poe show buff\Poe show buff\obj\Debug\net6.0-windows\Poe show buff.csproj.CopyComplete
+C:\Users\blank\Documents\GitHub\poe\Poe show buff\Poe show buff\obj\Debug\net6.0-windows\Poe show buff.dll
+C:\Users\blank\Documents\GitHub\poe\Poe show buff\Poe show buff\obj\Debug\net6.0-windows\refint\Poe show buff.dll
+C:\Users\blank\Documents\GitHub\poe\Poe show buff\Poe show buff\obj\Debug\net6.0-windows\Poe show buff.pdb
+C:\Users\blank\Documents\GitHub\poe\Poe show buff\Poe show buff\obj\Debug\net6.0-windows\Poe show buff.genruntimeconfig.cache
+C:\Users\blank\Documents\GitHub\poe\Poe show buff\Poe show buff\obj\Debug\net6.0-windows\ref\Poe show buff.dll

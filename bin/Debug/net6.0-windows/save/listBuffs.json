@@ -1,0 +1,382 @@
+[
+  {
+    "name": "akchemistGenius",
+    "path": "C:\\Users\\blank\\source\\repos\\Poe show buff\\bin\\Debug\\net6.0-windows\\Icons\\Buff\\akchemistGenius.png",
+    "soundEffectStart": "",
+    "soundEffectEnd": null,
+    "isStartSoundAcvitated": false,
+    "isEndSoundAcvitated": false,
+    "isActivated": false,
+    "placeToHold": "",
+    "typeBuff": 0,
+    "pixels": [
+      -16776700,
+      -16777215,
+      -16249056,
+      -16250598,
+      -16249828
+    ],
+    "x": 0,
+    "y": 0
+  },
+  {
+    "name": "bloodRage",
+    "path": "C:\\Users\\blank\\source\\repos\\Poe show buff\\bin\\Debug\\net6.0-windows\\Icons\\Buff\\bloodRage.png",
+    "soundEffectStart": "",
+    "soundEffectEnd": null,
+    "isStartSoundAcvitated": false,
+    "isEndSoundAcvitated": false,
+    "isActivated": false,
+    "placeToHold": "",
+    "typeBuff": 0,
+    "pixels": [
+      -11269888,
+      -6412793,
+      -11333886,
+      -6350589,
+      -4972796
+    ],
+    "x": 0,
+    "y": 0
+  },
+  {
+    "name": "elusive",
+    "path": "C:\\Users\\blank\\source\\repos\\Poe show buff\\bin\\Debug\\net6.0-windows\\Icons\\Buff\\elusive.png",
+    "soundEffectStart": "",
+    "soundEffectEnd": null,
+    "isStartSoundAcvitated": false,
+    "isEndSoundAcvitated": false,
+    "isActivated": false,
+    "placeToHold": "",
+    "typeBuff": 0,
+    "pixels": [
+      -12857949,
+      -13386613,
+      -6030343,
+      -1311752,
+      -721154
+    ],
+    "x": 0,
+    "y": 0
+  },
+  {
+    "name": "enduranceCharg",
+    "path": "C:\\Users\\blank\\source\\repos\\Poe show buff\\bin\\Debug\\net6.0-windows\\Icons\\Buff\\enduranceCharg.png",
+    "soundEffectStart": "",
+    "soundEffectEnd": null,
+    "isStartSoundAcvitated": false,
+    "isEndSoundAcvitated": false,
+    "isActivated": false,
+    "placeToHold": "",
+    "typeBuff": 0,
+    "pixels": [
+      -889856,
+      -1423104,
+      -890624,
+      -2082304,
+      -2808064
+    ],
+    "x": 0,
+    "y": 0
+  },
+  {
+    "name": "focus",
+    "path": "C:\\Users\\blank\\source\\repos\\Poe show buff\\bin\\Debug\\net6.0-windows\\Icons\\Buff\\focus.png",
+    "soundEffectStart": "",
+    "soundEffectEnd": null,
+    "isStartSoundAcvitated": false,
+    "isEndSoundAcvitated": false,
+    "isActivated": false,
+    "placeToHold": "",
+    "typeBuff": 0,
+    "pixels": [
+      -12049406,
+      -13826048,
+      -12117503,
+      -2082047,
+      -2475775
+    ],
+    "x": 0,
+    "y": 0
+  },
+  {
+    "name": "frenzyCharg",
+    "path": "C:\\Users\\blank\\source\\repos\\Poe show buff\\bin\\Debug\\net6.0-windows\\Icons\\Buff\\frenzyCharg.png",
+    "soundEffectStart": "",
+    "soundEffectEnd": null,
+    "isStartSoundAcvitated": false,
+    "isEndSoundAcvitated": false,
+    "isActivated": true,
+    "placeToHold": "",
+    "typeBuff": 0,
+    "pixels": [
+      -9525504,
+      -8669952,
+      -10711040,
+      -12821248,
+      -13413376
+    ],
+    "x": 0,
+    "y": 0
+  },
+  {
+    "name": "heraldAgony",
+    "path": "C:\\Users\\blank\\source\\repos\\Poe show buff\\bin\\Debug\\net6.0-windows\\Icons\\Buff\\heraldAgony.png",
+    "soundEffectStart": "",
+    "soundEffectEnd": null,
+    "isStartSoundAcvitated": false,
+    "isEndSoundAcvitated": false,
+    "isActivated": false,
+    "placeToHold": "",
+    "typeBuff": 0,
+    "pixels": [
+      -13470425,
+      -12412623,
+      -12941779,
+      -12809684,
+      -12477648
+    ],
+    "x": 0,
+    "y": 0
+  },
+  {
+    "name": "malevolence",
+    "path": "C:\\Users\\blank\\source\\repos\\Poe show buff\\bin\\Debug\\net6.0-windows\\Icons\\Buff\\malevolence.png",
+    "soundEffectStart": "",
+    "soundEffectEnd": null,
+    "isStartSoundAcvitated": false,
+    "isEndSoundAcvitated": false,
+    "isActivated": true,
+    "placeToHold": "",
+    "typeBuff": 0,
+    "pixels": [
+      -7487541,
+      -15063471,
+      -16708280,
+      -16244870,
+      -16246380
+    ],
+    "x": 0,
+    "y": 0
+  },
+  {
+    "name": "onslaught",
+    "path": "C:\\Users\\blank\\source\\repos\\Poe show buff\\bin\\Debug\\net6.0-windows\\Icons\\Buff\\onslaught.png",
+    "soundEffectStart": "",
+    "soundEffectEnd": null,
+    "isStartSoundAcvitated": false,
+    "isEndSoundAcvitated": false,
+    "isActivated": false,
+    "placeToHold": "",
+    "typeBuff": 0,
+    "pixels": [
+      -1277952,
+      -1478912,
+      -1748992,
+      -2209792,
+      -1881088
+    ],
+    "x": 0,
+    "y": 0
+  },
+  {
+    "name": "plagueBarer",
+    "path": "C:\\Users\\blank\\source\\repos\\Poe show buff\\bin\\Debug\\net6.0-windows\\Icons\\Buff\\plagueBarer.png",
+    "soundEffectStart": "",
+    "soundEffectEnd": null,
+    "isStartSoundAcvitated": false,
+    "isEndSoundAcvitated": false,
+    "isActivated": false,
+    "placeToHold": "",
+    "typeBuff": 0,
+    "pixels": [
+      -10507978,
+      -9712839,
+      -9712839,
+      -9713092,
+      -9713092
+    ],
+    "x": 0,
+    "y": 0
+  },
+  {
+    "name": "plagueBarerFull",
+    "path": "C:\\Users\\blank\\source\\repos\\Poe show buff\\bin\\Debug\\net6.0-windows\\Icons\\Buff\\plagueBarerFull.png",
+    "soundEffectStart": "",
+    "soundEffectEnd": null,
+    "isStartSoundAcvitated": false,
+    "isEndSoundAcvitated": false,
+    "isActivated": true,
+    "placeToHold": "",
+    "typeBuff": 0,
+    "pixels": [
+      -8733125,
+      -8663747,
+      -10112975,
+      -14593782,
+      -14923514
+    ],
+    "x": 0,
+    "y": 0
+  },
+  {
+    "name": "powerCharg",
+    "path": "C:\\Users\\blank\\source\\repos\\Poe show buff\\bin\\Debug\\net6.0-windows\\Icons\\Buff\\powerCharg.png",
+    "soundEffectStart": "",
+    "soundEffectEnd": null,
+    "isStartSoundAcvitated": false,
+    "isEndSoundAcvitated": false,
+    "isActivated": false,
+    "placeToHold": "",
+    "typeBuff": 0,
+    "pixels": [
+      -12463117,
+      -12921870,
+      -12723980,
+      -11807503,
+      -10952972
+    ],
+    "x": 0,
+    "y": 0
+  },
+  {
+    "name": "quickSilverFlask",
+    "path": "C:\\Users\\blank\\source\\repos\\Poe show buff\\bin\\Debug\\net6.0-windows\\Icons\\Buff\\quickSilverFlask.png",
+    "soundEffectStart": "",
+    "soundEffectEnd": null,
+    "isStartSoundAcvitated": false,
+    "isEndSoundAcvitated": false,
+    "isActivated": false,
+    "placeToHold": "",
+    "typeBuff": 2,
+    "pixels": [
+      -10930920,
+      -4082547,
+      -1127305,
+      -3440840,
+      -2384561
+    ],
+    "x": 0,
+    "y": 0
+  },
+  {
+    "name": "rubyFlask",
+    "path": "C:\\Users\\blank\\source\\repos\\Poe show buff\\bin\\Debug\\net6.0-windows\\Icons\\Buff\\rubyFlask.png",
+    "soundEffectStart": "",
+    "soundEffectEnd": null,
+    "isStartSoundAcvitated": false,
+    "isEndSoundAcvitated": false,
+    "isActivated": false,
+    "placeToHold": "",
+    "typeBuff": 2,
+    "pixels": [
+      -5136789,
+      -5070996,
+      -4281230,
+      -922996,
+      -6848937
+    ],
+    "x": 0,
+    "y": 0
+  },
+  {
+    "name": "sapphireFlask",
+    "path": "C:\\Users\\blank\\source\\repos\\Poe show buff\\bin\\Debug\\net6.0-windows\\Icons\\Buff\\sapphireFlask.png",
+    "soundEffectStart": "",
+    "soundEffectEnd": null,
+    "isStartSoundAcvitated": false,
+    "isEndSoundAcvitated": false,
+    "isActivated": false,
+    "placeToHold": "",
+    "typeBuff": 2,
+    "pixels": [
+      -8610426,
+      -8544634,
+      -4725318,
+      -4461890,
+      -8416899
+    ],
+    "x": 0,
+    "y": 0
+  },
+  {
+    "name": "steelskin",
+    "path": "C:\\Users\\blank\\source\\repos\\Poe show buff\\bin\\Debug\\net6.0-windows\\Icons\\Buff\\steelskin.png",
+    "soundEffectStart": "",
+    "soundEffectEnd": null,
+    "isStartSoundAcvitated": false,
+    "isEndSoundAcvitated": false,
+    "isActivated": false,
+    "placeToHold": "",
+    "typeBuff": 0,
+    "pixels": [
+      -6453954,
+      -7308742,
+      -9478867,
+      -8559040,
+      -6581160
+    ],
+    "x": 0,
+    "y": 0
+  },
+  {
+    "name": "tateHateFlask",
+    "path": "C:\\Users\\blank\\source\\repos\\Poe show buff\\bin\\Debug\\net6.0-windows\\Icons\\Buff\\tateHateFlask.png",
+    "soundEffectStart": "",
+    "soundEffectEnd": null,
+    "isStartSoundAcvitated": false,
+    "isEndSoundAcvitated": false,
+    "isActivated": false,
+    "placeToHold": "",
+    "typeBuff": 2,
+    "pixels": [
+      -394758,
+      -9541000,
+      -1905934,
+      -5458737,
+      -6313786
+    ],
+    "x": 0,
+    "y": 0
+  },
+  {
+    "name": "topazFlask",
+    "path": "C:\\Users\\blank\\source\\repos\\Poe show buff\\bin\\Debug\\net6.0-windows\\Icons\\Buff\\topazFlask.png",
+    "soundEffectStart": "",
+    "soundEffectEnd": null,
+    "isStartSoundAcvitated": false,
+    "isEndSoundAcvitated": false,
+    "isActivated": false,
+    "placeToHold": "",
+    "typeBuff": 2,
+    "pixels": [
+      -798100,
+      -666258,
+      -863380,
+      -4349874,
+      -8498132
+    ],
+    "x": 0,
+    "y": 0
+  },
+  {
+    "name": "witheringStep",
+    "path": "C:\\Users\\blank\\source\\repos\\Poe show buff\\bin\\Debug\\net6.0-windows\\Icons\\Buff\\witheringStep.png",
+    "soundEffectStart": "",
+    "soundEffectEnd": null,
+    "isStartSoundAcvitated": false,
+    "isEndSoundAcvitated": false,
+    "isActivated": false,
+    "placeToHold": "",
+    "typeBuff": 0,
+    "pixels": [
+      -13542647,
+      -16777216,
+      -16777216,
+      -16777216,
+      -16777216
+    ],
+    "x": 0,
+    "y": 0
+  }
+]
