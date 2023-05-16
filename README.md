@@ -6,6 +6,8 @@ Contents:
 - virus total cheks.
 
 // todo add information about consumed resources
+// add bugs and soluti
+// add guid to track buffs
 
 :star: Tracks your chosen buffs and displays them where you put them. 
 
