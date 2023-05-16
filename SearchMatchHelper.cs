@@ -47,87 +47,6 @@ namespace Poe_show_buff
         }
 
 
-        static public bool FindSequence(List<int> pixels, List<int> searchPixel, int numberPixel)
-        {
-            int testPos = 20;
-            int diffrence = 73;
-
-
-
-
-            bool inRange = CalculateDifference(pixels[numberPixel], searchPixel[0]);
-
-            int sizeSearchList = searchPixel.Count - 1;
-
-            int hitCounts = 0;
-
-
-
-
-            if (inRange)
-            {
-                inRange = false;
-
-                for (int i = 1; i < sizeSearchList; i++)
-                {
-                    inRange = CalculateDifference(pixels[numberPixel + i], searchPixel[i]);
-
-                    if (inRange)
-                    {
-                        hitCounts++;
-                        break;
-                    }
-                }
-
-            }
-
-            if (hitCounts != 0)
-            {
-                return true;
-            }
-
-            return false;
-
-
-        }
-
-
-        public static bool CalculateDifference(int currentPixel, int searchPixel)
-        {
-            int diffrenceBetweenPixels = currentPixel - searchPixel;
-
-            if (diffrenceBetweenPixels < 0)
-            {
-                diffrenceBetweenPixels *= -1;
-            }
-            if (diffrenceBetweenPixels <= AvailableDifferenceBetweenPixels)
-            {
-                return true;
-            }
-            else
-            {
-                return false;
-            }
-
-
-        }
-
-
-        public static List<Bitmap> LoadBitmapsFromFolder(string path)
-        {
-            string folderPath = path;
-            List<Bitmap> bitmaps = new List<Bitmap>();
-            string[] files = Directory.GetFiles(folderPath, "*.png");
-
-            foreach (string file in files)
-            {
-                Bitmap bitmap = (Bitmap)Image.FromFile(file);
-                bitmaps.Add(bitmap);
-            }
-
-            return bitmaps;
-        }
-
 
         public static List<Bitmap> FindAllIcons(List<int> imagePixels, Bitmap image)
         {
@@ -141,20 +60,6 @@ namespace Poe_show_buff
             {
                 CheckPixel(MainLoop);
 
-                /*if (MainLoop == 20)
-                {
-                    CreateIcon();
-                }
-
-                if (MainLoop == 94)
-                {
-                    CreateIcon();
-                }
-
-                if (MainLoop == 166)
-                {
-                    CreateIcon();
-                }*/
             }
 
             return iconsList;
@@ -164,10 +69,6 @@ namespace Poe_show_buff
         // если мы получали иконку бафы или фласки, то не можем проверять сумонов или брандов
         // если получили бранда, то не можем чекать сумонов
         // если получили сумона, то позиция следующего пикселя либо дефолтная (следующий сумон), либо сверх дальняя
-        public static void ChangeIconStateType()
-        {
-
-        }
 
         public static void CheckPixel(int currentLoop)
         {
@@ -285,19 +186,6 @@ namespace Poe_show_buff
         }
 
 
-        public static void ColorPixels(Bitmap image, int xPosition)
-        {
-            var yPos = image.Height / 2;
-            int distanceToBorderIcon = 16;
-            int widthImage = image.Width;
-            int heightCenter = image.Height - (image.Height - distanceToBorderIcon);
-
-            for (int i = 0; i < 20; i++)
-            {
-                image.SetPixel(xPosition, heightCenter + i, Color.White);
-            }
-
-        }
 
         // необходимо проверить пиксель на соответствие.
         // если тру, тогда смотрим есть ли еще совпадение.
@@ -308,8 +196,6 @@ namespace Poe_show_buff
 
 
 
-
-            
 
 
             int posToCrop = 0;
@@ -350,25 +236,13 @@ namespace Poe_show_buff
                 g.DrawImage(MainImage, new Rectangle(0, 0, croppedImage.Width, croppedImage.Height), cropRegion, GraphicsUnit.Pixel);
             }
 
-            croppedImage.Save(posToCrop + "_image.png", ImageFormat.Png);
+            //croppedImage.Save(posToCrop + "_image.png", ImageFormat.Png);
 
 
             // 64 width img, -numbers margin of safety, icons can be siwtched in pos on min ~1pxl some times
             MainLoop = posToCrop + 64 + disatnceToBorder - 2;
 
-            if (posToCrop > 60 && posToCrop < 80)
-            {
-
-            }
-            if (posToCrop > 20 && posToCrop < 88)
-            {
-
-            }
-
-            if (posToCrop > 533)
-            {
-
-            }
+           
 
             PreviousIconType = CurrentIconType;
             PreviousIconPos = posToCrop;

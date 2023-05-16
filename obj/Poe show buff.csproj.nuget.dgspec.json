@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\blank\\Documents\\GitHub\\poe\\Poe show buff\\Poe show buff\\Poe show buff.csproj": {}
+    "C:\\Users\\blank\\Documents\\GitHub\\poe detect buffs\\Poe show buff.csproj": {}
   },
   "projects": {
-    "C:\\Users\\blank\\Documents\\GitHub\\poe\\Poe show buff\\Poe show buff\\Poe show buff.csproj": {
+    "C:\\Users\\blank\\Documents\\GitHub\\poe detect buffs\\Poe show buff.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\blank\\Documents\\GitHub\\poe\\Poe show buff\\Poe show buff\\Poe show buff.csproj",
+        "projectUniqueName": "C:\\Users\\blank\\Documents\\GitHub\\poe detect buffs\\Poe show buff.csproj",
         "projectName": "Poe show buff",
-        "projectPath": "C:\\Users\\blank\\Documents\\GitHub\\poe\\Poe show buff\\Poe show buff\\Poe show buff.csproj",
+        "projectPath": "C:\\Users\\blank\\Documents\\GitHub\\poe detect buffs\\Poe show buff.csproj",
         "packagesPath": "C:\\Users\\blank\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\blank\\Documents\\GitHub\\poe\\Poe show buff\\Poe show buff\\obj\\",
+        "outputPath": "C:\\Users\\blank\\Documents\\GitHub\\poe detect buffs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\blank\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,69 +1,33 @@
 
 
+using Poe_show_buff.helps;
+using Poe_show_buff.settings;
+
 namespace Poe_show_buff
 {
-    
+
     internal static class Program
     {
-        static Save save = new Save();
-        static ListBuffs _listBuffs;
-        static void DrawImageAtLocation(Graphics g, Image image, Point location)
-        {
-            g.DrawImage(image, location);
-        }
+        static string pathToBuffs = @"\\Icons\\Buff\";
+        static FullFillBuffsData _listBuffs;
+
         [STAThread]
         static void Main()
         {
-
-           /*CreateMainImage createMainImage = new CreateMainImage(CreateMainImage.Areas.Buff);
-            createMainImage.CreateScreen();*/
-
-
-
-            _listBuffs = new ListBuffs();
+            _listBuffs = new FullFillBuffsData();
             _listBuffs.FullFillList();
 
-
-            Load load = new Load();
-            load.LoadData(_listBuffs);
-
-
-            
+            LoadData.IconList();
 
             ApplicationConfiguration.Initialize();
             Application.Run(new Form1(_listBuffs));
 
-
-            IconsPlace iconsPlace = new IconsPlace();
-            iconsPlace.GeneratePlacePoints(32);
-
-            
-
-
-
-
-
-
-
-
-            save.SaveToFile(_listBuffs);
-
-
-
-
-
-
-
-
+            SaveData.IconData();
         }
-        public static ListBuffs ReturnBuffs()
+
+        public static FullFillBuffsData ReturnBuffs()
         {
             return _listBuffs;
-        }
-
-        public static void SaveIconData()
-        {
-            save.SaveToFile(_listBuffs);
         }
     }
 }
