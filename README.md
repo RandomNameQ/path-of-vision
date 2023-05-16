@@ -5,6 +5,8 @@ Contents:
 - how pov work.
 - virus total cheks.
 
+// todo add information about consumed resources
+
 :star: Tracks your chosen buffs and displays them where you put them. 
 
 Program allows you to "move" the icon of buffs or debuffs (not yet ready) to any position on the screen (or second monitor).
