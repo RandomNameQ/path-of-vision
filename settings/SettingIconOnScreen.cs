@@ -22,6 +22,7 @@ namespace Poe_show_buff.settings
 
         public void RestoreIconPosition()
         {
+            _iconList = Program.ReturnBuffs();
             for (int i = 0; i < _iconList.ListAllBuffs.Count; i++)
             {
                 var buff = _iconList.ListAllBuffs[i];
