@@ -5,9 +5,11 @@ Contents:
 - how pov work.
 - virus total cheks.
 
-:star: Program allows you to "move" the icon of buffs or debuffs (not yet ready) to any position on the screen (or second monitor).
+:star: Tracks your chosen buffs and displays them where you put them. 
 
-Strong beta alpha gamma atomic.
+Program allows you to "move" the icon of buffs or debuffs (not yet ready) to any position on the screen (or second monitor).
+
+:exclamation: Strong beta alpha gamma atomic.
 
 ![7ly8lx](https://github.com/RandomNameQ/path-of-vision/assets/125605136/cf434d86-9e4b-4ec6-bf98-4bcb2c1ca109)
 ![7ly9wy](https://github.com/RandomNameQ/path-of-vision/assets/125605136/1d5c5d0c-2a77-4669-9048-ffa4c814912d)
