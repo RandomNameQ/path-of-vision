@@ -1,6 +1,7 @@
 # path-of-vision
 
-![Uploading 7ly8lx.gif…]()
+
+![7ly8lx](https://github.com/RandomNameQ/path-of-vision/assets/125605136/cf434d86-9e4b-4ec6-bf98-4bcb2c1ca109)
 
 
 
