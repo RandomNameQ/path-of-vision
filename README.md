@@ -6,6 +6,7 @@ Contents:
 - virus total cheks.
 
 :star: Program allows you to "move" the icon of buffs or debuffs (not yet ready) to any position on the screen (or second monitor).
+
 Strong beta alpha gamma atomic.
 
 ![7ly8lx](https://github.com/RandomNameQ/path-of-vision/assets/125605136/cf434d86-9e4b-4ec6-bf98-4bcb2c1ca109)
@@ -14,8 +15,8 @@ Strong beta alpha gamma atomic.
 :grey_exclamation: ~Works with all buffs (requires configuration).
 :grey_exclamation: Track any buffs in a convenient place for the eyes.
 
-~~Debuff logger ~~~ stores information about what debuffs were imposed on us, a description and a picture.
-~~Debuff detector ~~~ the same mechanics as buff tracking.
+~~Debuff logger ~~ stores information about what debuffs were imposed on us, a description and a picture.
+~~Debuff detector ~~ the same mechanics as buff tracking.
 ~~Anti scam blessing~~ shows the total amount of transferred and received currency, protection against replacement of essences
 Not working yet.
 
