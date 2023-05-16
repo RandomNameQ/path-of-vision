@@ -29,7 +29,9 @@ namespace Poe_show_buff
 
             _threadIcon = new Thread(() =>
             {
-                
+                _threadIcon.IsBackground = true;
+
+
                 using (Form form = new Form())
                 {
                     // Set form properties
